@@ -197,3 +197,7 @@ git_stats/*
 StyleCop.Cache
 bin
 obj
+
+#sqlite
+*.lock
+*.ide
